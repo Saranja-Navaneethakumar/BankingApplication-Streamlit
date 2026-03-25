@@ -42,7 +42,7 @@ It demonstrates core OOP principles:
 - Accessed using methods only
 
 ### Inheritance
-- `SavingsAccount` and `CurrentAccount` inherit from `Account`
+- `SavingAccount` and `CurrentAccount` inherit from `Account`
 
 ### Polymorphism
 - Different behavior of `withdraw()` method in each account type
