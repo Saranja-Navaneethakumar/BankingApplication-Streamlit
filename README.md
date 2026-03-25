@@ -138,8 +138,7 @@ Saranja Navaneethakumar
 
 ---
 
-## 📜 License
+## License
 
 This project is for educational purposes.
 
-```
