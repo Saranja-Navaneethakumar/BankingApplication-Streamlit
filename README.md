@@ -119,7 +119,14 @@ Simple and interactive UI built using Streamlit:
 * Input fields
 * Buttons for actions
 * Real-time output
-
+![Dashboard](asstes/images/Dashboard.png)
+![Register](asstes/images/Register.png)
+![Login](asstes/images/Login.png)
+![Deposit](asstes/images/Deposit.png)
+![Withdraw](asstes/images/Withdraw.png)
+![Balance](asstes/images/Balance.png)
+![History](asstes/images/Transaction History.png)
+![Logout](asstes/images/logout.png)
 ---
 
 ## Future Improvements
