@@ -125,7 +125,7 @@ Simple and interactive UI built using Streamlit:
 ![Withdraw](assets/images/Withdraw.png)
 ![Balance](assets/images/Balance.png)
 ![History](assets/images/Transaction%20History.png)
-![Logout](assets/images/logout.png)
+![Logout](assets/images/Logout.png)
 ---
 
 ## Future Improvements
