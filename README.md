@@ -34,7 +34,7 @@ It demonstrates core OOP principles:
 ## OOP Concepts Used
 
 ### Abstraction
-- Abstract base class `BankAccount`
+- Abstract base class `Account`
 - Defines common methods like `deposit()`, `withdraw()`, `get_balance()`
 
 ### Encapsulation
@@ -42,7 +42,7 @@ It demonstrates core OOP principles:
 - Accessed using methods only
 
 ### Inheritance
-- `SavingsAccount` and `CurrentAccount` inherit from `BankAccount`
+- `SavingsAccount` and `CurrentAccount` inherit from `Account`
 
 ### Polymorphism
 - Different behavior of `withdraw()` method in each account type
