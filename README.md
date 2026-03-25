@@ -1,5 +1,3 @@
-**Banking Application (OOP + Python + Streamlit)** 
-
 # Banking Application using OOP in Python with Streamlit
 
 ## Overview
@@ -119,14 +117,15 @@ Simple and interactive UI built using Streamlit:
 * Input fields
 * Buttons for actions
 * Real-time output
-![Dashboard](asstes/images/Dashboard.png)
-![Register](asstes/images/Register.png)
-![Login](asstes/images/Login.png)
-![Deposit](asstes/images/Deposit.png)
-![Withdraw](asstes/images/Withdraw.png)
-![Balance](asstes/images/Balance.png)
-![History](asstes/images/Transaction History.png)
-![Logout](asstes/images/logout.png)
+  
+![Dashboard](assets/images/Dashboard.png)
+![Register](assets/images/Register.png)
+![Login](assets/images/Login.png)
+![Deposit](assets/images/Deposit.png)
+![Withdraw](assets/images/Withdraw.png)
+![Balance](assets/images/Balance.png)
+![History](assets/images/Transaction%20History.png)
+![Logout](assets/images/logout.png)
 ---
 
 ## Future Improvements
